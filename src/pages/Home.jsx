@@ -29,7 +29,7 @@ function Home({ onNavigate }) {
 
                         <div className="text-left">
                             <p className="text-sm font-bold text-white">
-                                TTS Studio
+                                AI Voice Studio
                             </p>
 
                             <p className="mt-0.5 text-[10px] font-medium uppercase tracking-[0.18em] text-slate-500">
@@ -261,7 +261,7 @@ function Home({ onNavigate }) {
 
                             <p className="mt-4 text-sm leading-7 text-slate-500 sm:text-base">
                                 From writing and enhancement to document extraction and
-                                audio generation, TTS Studio brings the complete workflow
+                                audio generation, AI Voice Studio brings the complete workflow
                                 together in one place.
                             </p>
 
@@ -459,7 +459,7 @@ function Home({ onNavigate }) {
 
                 <div>
                     <p className="text-sm font-bold text-white">
-                        TTS Studio
+                        AI Voice Studio
                     </p>
 
                     <p className="mt-0.5 text-[10px] tracking-wide text-slate-500">
@@ -470,7 +470,7 @@ function Home({ onNavigate }) {
 
             {/* Copyright */}
             <div className="text-xs text-slate-600 sm:text-right">
-                © 2026 TTS Studio · Built by{" "}
+                © 2026 AI Voice Studio · Built by{" "}
                 <span className="font-medium text-slate-400">
                     Ishita Verma
                 </span>

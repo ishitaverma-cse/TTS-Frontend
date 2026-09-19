@@ -437,7 +437,7 @@ function App() {
                     {activeSection === "history" && "View and manage your generated speeches."}
                     {activeSection === "favorites" && "Access your saved favorite speeches."}
                     {activeSection === "trash" && "View and manage your deleted speeches."}
-                    {activeSection === "settings" && "Manage your TTS Studio preferences."}
+                    {activeSection === "settings" && "Manage your AI Voice Studio preferences."}
                   </p>
                 </div>
               </div>
@@ -498,7 +498,7 @@ function App() {
                         </p>
 
                         <p className="truncate text-xs text-slate-500">
-                          {user?.email || "TTS Studio Account"}
+                          {user?.email || "AI Voice Studio Account"}
                         </p>
                       </div>
 
@@ -1324,7 +1324,7 @@ function App() {
                 </h2>
 
                 <p className="mt-1 text-sm text-slate-500">
-                  Manage your TTS Studio preferences.
+                  Manage your AI Voice Studio preferences.
                 </p>
               </div>
 
@@ -1392,7 +1392,7 @@ function App() {
               <div className="mt-5 rounded-xl border border-indigo-400/10 bg-indigo-500/5 px-5 py-4">
                 <p className="text-xs leading-5 text-slate-500">
                   These preferences are automatically saved and will
-                  be used the next time you open TTS Studio.
+                  be used the next time you open AI Voice Studio.
                 </p>
               </div>
 

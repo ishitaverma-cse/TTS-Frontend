@@ -171,7 +171,7 @@ function Signup({ onSignup, onNavigate }) {
                                 </h1>
 
                                 <p className="mt-3 text-sm leading-6 text-slate-500">
-                                    Sign up to start creating speech with TTS Studio.
+                                    Sign up to start creating speech with AI Voice Studio.
                                 </p>
 
                             </div>

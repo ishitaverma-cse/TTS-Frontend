@@ -47,7 +47,7 @@ function Sidebar({ activeSection, onNavigate, isOpen, onClose }) {
 
                 <div>
                     <h1 className="text-lg font-bold text-white">
-                        TTS Studio
+                        AI Voice Studio
                     </h1>
 
                     <p className="text-xs text-slate-500">
@@ -114,7 +114,7 @@ function Sidebar({ activeSection, onNavigate, isOpen, onClose }) {
                 </p>
 
                 <p className="mt-1 text-xs text-slate-700">
-                    TTS Studio
+                    AI Voice Studio
                 </p>
             </div>
 

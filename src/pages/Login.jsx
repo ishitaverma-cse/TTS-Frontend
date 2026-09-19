@@ -152,7 +152,7 @@ function Login({ onLogin, onNavigate }) {
                 </h1>
 
                 <p className="mt-3 text-sm leading-6 text-slate-500">
-                  Sign in to continue to your TTS Studio workspace.
+                  Sign in to continue to your AI Voice Studio workspace.
                 </p>
 
               </div>
